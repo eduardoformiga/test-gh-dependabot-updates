@@ -1,0 +1,11 @@
+{
+  "name": "@test-fs/test-gh-dependabot-updates",
+  "version": "1.0.0",
+  "description": "Lib for testing dependabot version updates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "formiga",
+  "license": "MIT"
+}
