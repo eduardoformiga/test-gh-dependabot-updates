@@ -1,6 +1,6 @@
 {
   "name": "@test-fs/test-gh-dependabot-updates",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "Lib for testing dependabot version updates.",
   "main": "index.js",
   "scripts": {
